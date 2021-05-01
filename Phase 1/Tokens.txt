@@ -1,0 +1,7467 @@
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+If : if
+OP : (
+a : a
+LT : <
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"hello" : "hello"
+CP : )
+NL : 
+
+INDENT : 	
+b : b
+EQL : =
+30 : 30
+NL : 
+
+Elif : elif
+OP : (
+a : a
+GT : >
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+d : d
+EQL : =
+40 : 40
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"rock" : "rock"
+CP : )
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+a : a
+EQL : =
+99 : 99
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+If : if
+OP : (
+a : a
+LT : <
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"hello" : "hello"
+CP : )
+NL : 
+
+INDENT : 	
+b : b
+EQL : =
+30 : 30
+NL : 
+
+Elif : elif
+OP : (
+a : a
+GT : >
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+d : d
+EQL : =
+40 : 40
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"rock" : "rock"
+CP : )
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+a : a
+EQL : =
+99 : 99
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+If : if
+OP : (
+a : a
+LT : <
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"hello" : "hello"
+CP : )
+NL : 
+
+INDENT : 	
+b : b
+EQL : =
+30 : 30
+NL : 
+
+Elif : elif
+OP : (
+a : a
+GT : >
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+d : d
+EQL : =
+40 : 40
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"rock" : "rock"
+CP : )
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+a : a
+EQL : =
+99 : 99
+NL : 
+
+ff : ff
+EQL : =
+99 : 99
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+If : if
+OP : (
+a : a
+LT : <
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"hello" : "hello"
+CP : )
+NL : 
+
+INDENT : 	
+b : b
+EQL : =
+30 : 30
+NL : 
+
+Elif : elif
+OP : (
+a : a
+GT : >
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+d : d
+EQL : =
+40 : 40
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"rock" : "rock"
+CP : )
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+a : a
+EQL : =
+99 : 99
+NL : 
+
+ff : ff
+EQL : =
+99 : 99
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+If : if
+OP : (
+a : a
+LT : <
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"hello" : "hello"
+CP : )
+NL : 
+
+INDENT : 	
+b : b
+EQL : =
+30 : 30
+NL : 
+
+Elif : elif
+OP : (
+a : a
+GT : >
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+d : d
+EQL : =
+40 : 40
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"rock" : "rock"
+CP : )
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+a : a
+EQL : =
+99 : 99
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+If : if
+OP : (
+a : a
+LT : <
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"hello" : "hello"
+CP : )
+NL : 
+
+INDENT : 	
+b : b
+EQL : =
+30 : 30
+NL : 
+
+Elif : elif
+OP : (
+a : a
+GT : >
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+d : d
+EQL : =
+40 : 40
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"rock" : "rock"
+CP : )
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+a : a
+EQL : =
+99 : 99
+NL : 
+
+INDENT : 	
+NL : 
+
+While : while
+OP : (
+True : True
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"doen" : "doen"
+CP : )
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+If : if
+OP : (
+a : a
+LT : <
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"hello" : "hello"
+CP : )
+NL : 
+
+INDENT : 	
+b : b
+EQL : =
+30 : 30
+NL : 
+
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+If : if
+OP : (
+a : a
+LT : <
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"hello" : "hello"
+CP : )
+NL : 
+
+INDENT : 	
+b : b
+EQL : =
+30 : 30
+NL : 
+
+Elif : elif
+OP : (
+a : a
+GT : >
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+d : d
+EQL : =
+40 : 40
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"rock" : "rock"
+CP : )
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+a : a
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+If : if
+OP : (
+a : a
+LT : <
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"hello" : "hello"
+CP : )
+NL : 
+
+INDENT : 	
+b : b
+EQL : =
+30 : 30
+NL : 
+
+Elif : elif
+OP : (
+a : a
+GT : >
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+d : d
+EQL : =
+40 : 40
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"rock" : "rock"
+CP : )
+NL : 
+
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+If : if
+OP : (
+a : a
+LT : <
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"hello" : "hello"
+CP : )
+NL : 
+
+INDENT : 	
+b : b
+EQL : =
+30 : 30
+NL : 
+
+Elif : elif
+OP : (
+a : a
+GT : >
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+d : d
+EQL : =
+40 : 40
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"rock" : "rock"
+CP : )
+NL : 
+
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+If : if
+OP : (
+a : a
+LT : <
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"hello" : "hello"
+CP : )
+NL : 
+
+INDENT : 	
+b : b
+EQL : =
+30 : 30
+NL : 
+
+Elif : elif
+OP : (
+a : a
+GT : >
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+If : if
+OP : (
+a : a
+LT : <
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"hello" : "hello"
+CP : )
+NL : 
+
+INDENT : 	
+b : b
+EQL : =
+30 : 30
+NL : 
+
+Elif : elif
+OP : (
+a : a
+GT : >
+20 : 20
+CP : )
+Cln : :
+f : f
+EQL : =
+0 : 0
+NL : 
+
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+If : if
+OP : (
+a : a
+LT : <
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+If : if
+OP : (
+a : a
+LT : <
+20 : 20
+CP : )
+Cln : :
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+Cln : :
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+jk : jk
+EQL : =
+9 : 9
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+dd : dd
+EQL : =
+dd : dd
+PL : +
+p : p
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+IMPT : import
+scipy : scipy
+NL : 
+
+IMPT : import
+scipy : scipy
+NL : 
+
+IMPT : import
+scipy : scipy
+NL : 
+
+c : c
+EQL : =
+a : a
+PL : +
+b : b
+OP : (
+IMPT : import
+scipy : scipy
+NL : 
+
+c : c
+EQL : =
+a : a
+PL : +
+b : b
+PL : +
+OP : (
+CP : )
+IMPT : import
+scipy : scipy
+NL : 
+
+c : c
+EQL : =
+a : a
+PL : +
+b : b
+PL : +
+OP : (
+x : x
+CP : )
+NL : 
+
+IMPT : import
+scipy : scipy
+NL : 
+
+c : c
+EQL : =
+a : a
+PL : +
+b : b
+PL : +
+OP : (
+x : x
+CP : )
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+IMPT : import
+scipy : scipy
+NL : 
+
+c : c
+EQL : =
+a : a
+PL : +
+b : b
+PL : +
+OP : (
+x : x
+CP : )
+NL : 
+
+If : if
+OP : (
+True : True
+CP : )
+Cln : :
+NL : 
+
+IMPT : import
+scipy : scipy
+NL : 
+
+c : c
+EQL : =
+a : a
+PL : +
+b : b
+PL : +
+OP : (
+x : x
+CP : )
+NL : 
+
+If : if
+OP : (
+True : True
+CP : )
+Cln : :
+hh : hh
+EQL : =
+0 : 0
+NL : 
+
+IMPT : import
+scipy : scipy
+NL : 
+
+c : c
+EQL : =
+a : a
+PL : +
+b : b
+PL : +
+OP : (
+x : x
+CP : )
+NL : 
+
+If : if
+OP : (
+True : True
+CP : )
+Cln : :
+NL : 
+
+IMPT : import
+scipy : scipy
+NL : 
+
+c : c
+EQL : =
+a : a
+PL : +
+b : b
+PL : +
+OP : (
+x : x
+CP : )
+NL : 
+
+If : if
+OP : (
+True : True
+CP : )
+Cln : :
+NL : 
+
+IMPT : import
+scipy : scipy
+NL : 
+
+c : c
+EQL : =
+a : a
+PL : +
+b : b
+PL : +
+OP : (
+x : x
+CP : )
+NL : 
+
+If : if
+OP : (
+True : True
+CP : )
+Cln : :
+NL : 
+
+IMPT : import
+scipy : scipy
+NL : 
+
+c : c
+EQL : =
+a : a
+PL : +
+b : b
+PL : +
+OP : (
+x : x
+CP : )
+PL : +
+p : p
+NL : 
+
+If : if
+OP : (
+True : True
+CP : )
+Cln : :
+NL : 
+
+IMPT : import
+scipy : scipy
+NL : 
+
+c : c
+EQL : =
+a : a
+PL : +
+b : b
+PL : +
+OP : (
+x : x
+CP : )
+PL : +
+p : p
+NL : 
+
+If : if
+OP : (
+True : True
+CP : )
+Cln : :
+NL : 
+
+IMPT : import
+scipy : scipy
+NL : 
+
+c : c
+EQL : =
+a : a
+PL : +
+b : b
+PL : +
+OP : (
+x : x
+CP : )
+PL : +
+p : p
+NL : 
+
+If : if
+OP : (
+True : True
+CP : )
+Cln : :
+NL : 
+
+Elif : elif
+IMPT : import
+scipy : scipy
+NL : 
+
+c : c
+EQL : =
+a : a
+PL : +
+b : b
+PL : +
+OP : (
+x : x
+CP : )
+PL : +
+p : p
+NL : 
+
+If : if
+OP : (
+True : True
+CP : )
+Cln : :
+gg : gg
+EQL : =
+0 : 0
+NL : 
+
+Else : else
+IMPT : import
+scipy : scipy
+NL : 
+
+c : c
+EQL : =
+a : a
+PL : +
+b : b
+PL : +
+OP : (
+x : x
+CP : )
+PL : +
+p : p
+NL : 
+
+If : if
+OP : (
+True : True
+CP : )
+Cln : :
+gg : gg
+EQL : =
+0 : 0
+NL : 
+
+Else : else
+IMPT : import
+scipy : scipy
+NL : 
+
+c : c
+EQL : =
+a : a
+PL : +
+b : b
+PL : +
+OP : (
+x : x
+CP : )
+PL : +
+p : p
+NL : 
+
+If : if
+OP : (
+True : True
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+gg : gg
+EQL : =
+0 : 0
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+ww : ww
+EQL : =
+0 : 0
+NL : 
+
+INDENT : 	
+f : f
+EQL : =
+True : True
+NL : 
+
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+'' : ''
+Elif : elif
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+'' : ''
+Elif : elif
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+'' : ''
+Elif : elif
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+'' : ''
+Elif : elif
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+as : as
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+a : a
+EQL : =
+10 : 10
+NL : 
+
+b : b
+EQL : =
+20 : 20
+NL : 
+
+Def : def
+funv : funv
+OP : (
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+aa : aa
+EQL : =
+78 : 78
+NL : 
+
+INDENT : 	
+ho : ho
+EQL : =
+99 : 99
+NL : 
+
+NL : 
+
+If : if
+OP : (
+a : a
+GT : >
+23 : 23
+CP : )
+NL : 
+
+INDENT : 	
+we : we
+EQL : =
+99 : 99
+NL : 
+
+Elif : elif
+OP : (
+b : b
+LT : <
+a : a
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ak : ak
+EQL : =
+gg : gg
+ML : *
+jk : jk
+NL : 
+
+Else : else
+Cln : :
+NL : 
+
+INDENT : 	
+qw : qw
+EQL : =
+55 : 55
+NL : 
+
+INDENT : 	
+Print : print
+OP : (
+"dff" : "dff"
+CP : )
+NL : 
+
+NL : 
+
+While : while
+OP : (
+False : False
+And : and
+a : a
+EQ : ==
+3 : 3
+CP : )
+Cln : :
+NL : 
+
+INDENT : 	
+ss : ss
+EQL : =
+"drg" : "drg"
+NL : 
+
+b : b
+EQL : =
+10 : 10
+NL : 
+
+c : c
+EQL : =
+20 : 20
+NL : 
+
+a : a
+EQL : =
+b : b
+PL : +
+c : c
+NL : 
+
+NL : 
+
+NL : 
+
+b : b
+EQL : =
+10 : 10
+NL : 
+
+c : c
+EQL : =
+20 : 20
+NL : 
+
+a : a
+EQL : =
+b : b
+PL : +
+c : c
+NL : 
+
+NL : 
+
+NL : 
+
+b : b
+EQL : =
+10 : 10
+NL : 
+

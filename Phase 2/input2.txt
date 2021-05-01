@@ -1,0 +1,19 @@
+import hWorld
+x=10
+y=10
+
+#Comment1
+listX = []
+while(x==10):
+	x = 1
+#Comment2
+if(x==y):
+	x=10
+else:
+	x=10
+
+if(x==y):
+	x=10
+else:
+	y=10
+
