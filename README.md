@@ -1,4 +1,4 @@
-Project : Mini Python Compiler ( if - else and while loop )
+# Mini Python Compiler ( if - else and while loop )
 
 Steps to run :
 1.	Go to the directory which contains "makefile"
